@@ -42,6 +42,16 @@ export default function Home() {
       name: "99 Social Media Hooks",
       path: "/hooks",
       description: "Free guide - Fill-in-the-blank hook templates for engagement"
+    },
+    {
+      name: "Arthur - Executive Storytelling",
+      path: "/arthur",
+      description: "The 5 Biggest Myths of Executive Storytelling"
+    },
+    {
+      name: "Stoke Leads",
+      path: "/stoke-leads",
+      description: "Dominate Google Maps & AI Recommendations for Local Businesses"
     }
   ];
 
